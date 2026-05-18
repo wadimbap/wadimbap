@@ -1,29 +1,37 @@
 # Vadim Plotnikov
 
-Java Backend Engineer focused on Spring Boot, REST APIs, SQL optimization, event-driven systems and backend integrations.
+Backend developer working mostly with Java/Spring systems, integrations and data-heavy backend logic.
 
-## Core stack
+I like backend tasks where the service is not isolated from the real world: external APIs, events, databases, reporting, queues, vendor-specific edge cases and production support.
 
-Java 17, Spring Boot, Hibernate/JPA, Spring JDBC, REST API, PostgreSQL, MariaDB, ClickHouse, RabbitMQ, Apache Kafka, Docker, GitLab CI/CD, JUnit 5, Mockito.
+## Tech stack
 
-## Engineering focus
+Java 17, Spring Boot, Spring Framework, Hibernate/JPA, Spring JDBC, REST API, PostgreSQL, MariaDB, ClickHouse, RabbitMQ, Kafka, Docker, GitLab CI/CD, Gradle, Maven, JUnit 5, Mockito.
 
-- Backend services and REST API design
-- External API and vendor integrations
-- Event-driven architecture with Kafka/RabbitMQ
-- SQL/JDBC optimization and database design
-- Distributed backend systems
-- Production debugging and legacy refactoring
+## What I care about
+
+- Clear service boundaries
+- Predictable REST APIs
+- Maintainable data access logic
+- SQL performance and readable queries
+- Reliable event processing
+- Practical tests, not tests for coverage only
+- Simple solutions before unnecessary abstractions
+- Documentation that helps run and understand the project
+
+## Backend areas I work with
+
+- API design and backend integrations
+- Event-driven communication
+- SQL/JDBC optimization
+- Reporting and filtering logic
+- Service support after release
+- Legacy code improvement
+- Docker-based local environments
 - AI-assisted development workflows
 
-## Commercial experience highlights
+## GitHub focus
 
-- Worked on a microservice video analytics backend platform with external AI analytics vendors.
-- Integrated event processing flows, event history, reporting and recognition results.
-- Worked with large installations up to 4,000 cameras on one site.
-- Optimized heavy SQL/JDBC queries from ~10s to ~1s and report generation from ~15s to ~5s.
-- Worked with Python-based AI/ML backend services and integrated recognition results into Java/Spring workflows.
+This profile is a place for my technical projects, experiments and notes around software engineering.
 
-## Featured projects
-
-Below are selected backend projects that demonstrate Java/Spring, REST API, SQL, integrations and infrastructure practices.
+I use it to explore different technologies, document useful patterns and keep practical examples of engineering solutions.
